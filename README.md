@@ -4,6 +4,7 @@ This tool fetches all available claimable IDs from the Anoma testnet and sends c
 
 ---
 Just update the bearerToken to your token from (https://testnet.anoma.net/)
+bearerToken = "YOUR_TOKEN"
 
 
 ## 🔧 Requirements
